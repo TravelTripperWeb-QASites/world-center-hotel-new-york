@@ -1,10 +1,8 @@
 {
-  "name": "Lobby",
+  "name": "Lead Photo1",
   "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby"
+    "url": "https://d31f902anbz5po.cloudfront.net/1650/244889_1_master.jpg"
   },
-  "order": 1
+  "order": 1,
+  "hidden": false
 }

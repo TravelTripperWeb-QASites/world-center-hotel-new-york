@@ -1,10 +1,8 @@
 {
-  "name": "City View",
+  "name": "Lead Photo2",
   "image": {
-    "url": "/assets/stock_images/city-view.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "City View"
+    "url": "https://d31f902anbz5po.cloudfront.net/1650/244890_1_master.jpg"
   },
-  "order": 2
+  "order": 2,
+  "hidden": false
 }

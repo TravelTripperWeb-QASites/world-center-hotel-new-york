@@ -1,10 +1,8 @@
 {
-  "name": "Tower Bridge",
+  "name": "Lead Photo3",
   "image": {
-    "url": "/assets/stock_images/tower-bridge.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Tower Bridge at night"
+    "url": "https://d31f902anbz5po.cloudfront.net/1650/244891_1_master.jpg"
   },
-  "order": 3
+  "order": 3,
+  "hidden": false
 }
