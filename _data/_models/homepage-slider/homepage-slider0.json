@@ -1,8 +1,6 @@
 {
-  "name": "Lead Photo0",
+  "name": "room_image1",
   "image": {
-    "url": "https://d31f902anbz5po.cloudfront.net/1650/244888_1_master.jpg"
-  },
-  "order": 0,
-  "hidden": false
+    "url": "https://d31f902anbz5po.cloudfront.net/1650/244929_1_master.jpg"
+  }
 }
